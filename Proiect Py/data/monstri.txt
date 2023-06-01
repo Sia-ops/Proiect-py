@@ -1,0 +1,3 @@
+Nume=Picioare lungi|HP=6|Putere=1
+Nume=Ochi de capra|HP=4|Putere=2
+Nume=Cap mare|HP=5|Putere=1

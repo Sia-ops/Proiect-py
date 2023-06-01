@@ -1,0 +1,8 @@
+
+Nume=sia|XP=0|Nivel=3|Aur=40|Clasa=Mag|HP=8|Mana=17|Coif=Ochelari Polarizati|Tunica=Vesta Trendi|Nadragi=Pantaloni Carpiti|Cizme=Opinci de Piele|Sceptru=Bagheta de Metal|Inventar=
+Nume=radu|XP=0|Nivel=1|Aur=0|Clasa=Luptator|HP=12|Mana=10|Coif=Palarie Mancata de Molii|Tunica=Bluza Decolorata|Nadragi=Pantaloni Carpiti|Cizme=Papuci printre Deget|Sabie=Tub de Carton|Inventar=
+Nume=stanca|XP=0|Nivel=1|Aur=4|Clasa=Asasin|HP=4|Mana=10|Coif=Palarie Mancata de Molii|Tunica=Bluza Decolorata|Nadragi=Pantaloni Carpiti|Cizme=Papuci printre Deget|Sabie=Tub de Carton|Inventar=
+Nume=rst|XP=0|Nivel=1|Aur=0|Clasa=Asasin|HP=8|Mana=10|Coif=Palarie Mancata de Molii|Tunica=Bluza Decolorata|Nadragi=Pantaloni Carpiti|Cizme=Papuci printre Deget|Sabie=Tub de Carton|Inventar=
+Nume=uio|XP=5|Nivel=1|Aur=8|Clasa=Asasin|HP=5|Mana=7|Coif=Palarie Mancata de Molii|Tunica=Bluza Decolorata|Nadragi=Pantaloni Carpiti|Cizme=Papuci printre Deget|Sabie=Tub de Carton|Inventar=
+Nume=mnb|XP=3|Nivel=1|Aur=2|Clasa=Mag|HP=5|Mana=5|Coif=Palarie Mancata de Molii|Tunica=Bluza Decolorata|Nadragi=Pantaloni Carpiti|Cizme=Papuci printre Deget|Sceptru=Creanga|Inventar=
+Nume=florin|XP=3|Nivel=1|Aur=4|Clasa=Mag|HP=5|Mana=0|Coif=Palarie Mancata de Molii|Tunica=Bluza Decolorata|Nadragi=Pantaloni Carpiti|Cizme=Papuci printre Deget|Sceptru=Bat|Inventar=

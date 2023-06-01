@@ -1,0 +1,3 @@
+Clasa=Mag|Prescurtare=m|HP=10|Putere=2|Mana=20|ManaRegen=5
+Clasa=Asasin|Prescurtare=a|HP=8|Putere=3|Mana=10|ManaRegen=1
+Clasa=Luptator|Prescurtare=l|HP=12|Putere=2|Mana=10|ManaRegen=1

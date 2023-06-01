@@ -1,0 +1,15 @@
+Tip=Coif|Nume=Palarie Mancata de Molii|Armura=0|Mana=0|HP=0|ManaRegen=0|Pret=0|Nivel=0|Clasa=Luptator+Asasin+Mag
+Tip=Tunica|Nume=Bluza Decolorata|Armura=0|Mana=0|HP=0|ManaRegen=0|Pret=0|Nivel=0|Clasa=Luptator+Asasin+Mag
+Tip=Nadragi|Nume=Pantaloni Carpiti|Armura=0|Mana=0|HP=0|ManaRegen=0|Pret=0|Nivel=0|Clasa=Luptator+Asasin+Mag
+Tip=Cizme|Nume=Papuci printre Deget|Armura=0|Mana=0|HP=0|ManaRegen=0|Pret=0|Nivel=0|Clasa=Luptator+Asasin+Mag
+
+Tip=Coif|Nume=Casca de Constructor|Armura=2|Mana=0|HP=1|ManaRegen=0|Pret=5|Nivel=1|Clasa=Luptator+Asasin+Mag
+Tip=Tunica|Nume=Vesta Trendi|Armura=1|Mana=2|HP=1|ManaRegen=2|Pret=10|Nivel=1|Clasa=Mag
+Tip=Nadragi|Nume=Pantaloni Papie-mache|Armura=4|Mana=1|HP=2|ManaRegen=0|Pret=8|Nivel=1|Clasa=Luptator+Asasin
+Tip=Cizme|Nume=Opinci de Piele|Armura=1|Mana=1|HP=1|ManaRegen=1|Pret=4|Nivel=1|Clasa=Luptator+Asasin+Mag
+
+Tip=Coif|Nume=Ochelari Polarizati|Armura=1|Mana=4|HP=4|ManaRegen=7|Pret=20|Nivel=2|Clasa=Mag
+Tip=Tunica|Nume=Pulover cu Gluga|Armura=7|Mana=3|HP=4|ManaRegen=2|Pret=25|Nivel=2|Clasa=Luptator+Asasin+Mag
+Tip=Nadragi|Nume=Pantaloni Scurti|Armura=3|Mana=4|HP=2|ManaRegen=5|Pret=18|Nivel=2|Clasa=Luptator+Asasin+Mag
+Tip=Cizme|Nume=Sandale cu Ciorapi|Armura=10|Mana=7|HP=8|ManaRegen=5|Pret=35|Nivel=2|Clasa=Luptator+Asasin+Mag
+

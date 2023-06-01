@@ -1,0 +1,6 @@
+Tip=Sabie|Nume=Tub de Carton|Putere=2|Pret=0|Nivel=0|Clasa=Luptator+Asasin
+Tip=Sceptru|Nume=Creanga|Putere=3|Pret=0|Nivel=0|Clasa=Mag
+Tip=Sceptru|Nume=Bat|Putere=6|Pret=7|Nivel=1|Clasa=Mag
+Tip=Sceptru|Nume=Bagheta de Metal|Putere=13|Pret=25|Nivel=2|Clasa=Mag
+Tip=Sabie|Nume=Lemn Taios|Putere=9|Pret=8|Nivel=1|Clasa=Luptator+Asasin
+Tip=Sabie|Nume=Lama de la Bic|Putere=18|Pret=30|Nivel=2|Clasa=Luptator+Asasin
